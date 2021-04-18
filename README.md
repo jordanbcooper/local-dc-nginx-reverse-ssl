@@ -14,6 +14,7 @@ Once all configured, docker-compose up --build in main directory.
 
 Add 
 
-127.0.0.1 domain.com subdomain.domain.com
+127.0.0.1 domain.com 
+127.0.01 subdomain.domain.com
 
 to your hosts file
