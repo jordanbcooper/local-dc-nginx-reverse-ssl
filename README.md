@@ -1,5 +1,7 @@
 # local-dc-nginx-reverse-ssl
 
+based on https://github.com/akullpp/multiple-react-nginx
+
 
 Follow ssl.md instructions first
 
