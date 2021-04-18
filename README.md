@@ -1,6 +1,6 @@
 # local-dc-nginx-reverse-ssl
 
-based on https://github.com/akullpp/multiple-react-nginx
+based on https://github.com/akullpp/multiple-react-nginx, but with SSL and reverse proxy.
 
 
 Follow ssl.md instructions first
